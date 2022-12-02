@@ -1,0 +1,14 @@
+raindb=10
+solidblock=B
+deathblock=D
+object=X
+wall=#
+up=w
+down=s
+left=a
+right=d
+character=O
+Exit=q
+put=p,D,6
+attack=4
+target=T

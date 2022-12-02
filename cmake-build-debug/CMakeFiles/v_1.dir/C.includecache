@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Tr/Desktop/pop stuff/Game_console/v.1/game_console.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+conio.h
+-
+time.h
+-
+windows.h
+-
+dos.h
+-
+direct.h
+-
+dir.h
+-
+io.h
+-
+
+C:/Users/Tr/Desktop/pop stuff/Game_console/v.1/move.c
+game_console.h
+C:/Users/Tr/Desktop/pop stuff/Game_console/v.1/game_console.h
+

@@ -1,0 +1,10 @@
+wall=#
+character=O
+deathblock=D
+up=w
+down=s
+left=a
+right=d
+time=70
+target=T
+Exit=q

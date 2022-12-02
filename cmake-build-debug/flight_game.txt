@@ -1,0 +1,13 @@
+character=O
+solidblock=B
+wall=#
+up=w
+down=s
+right=d
+left=a
+raindb=10
+exit=q
+deathblock=D
+target=T
+object=X
+
